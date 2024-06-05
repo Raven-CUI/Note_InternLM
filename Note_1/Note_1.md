@@ -13,10 +13,10 @@
 大模型是通往人工智能的一个关键途径。
 
 # 书生.浦语大模型开源历程
-![书生.浦语大模型开源历程](path/to/your/image.png)
+![书生.浦语大模型开源历程](Note_1/书生浦语大模型开源历程.png)
 
 # InternLM2的体系
-![InternLM2的体系](path/to/your/image.png)
+![InternLM2的体系](Note_1/2.0的体系.png)
 
 # 从模型到应用典型流程
 ![从模型到应用典型流程](path/to/your/image.png)
@@ -47,7 +47,7 @@ HuggingFace是一个著名的开源社区和公司，提供了大量的自然语
 司南大模型评测体系。
 
 ## 部署
-![部署](path/to/your/image.png)
+![部署](Note_1/部署.png)
 
 ## 智能体
 Lagent支持多种类型的智能体能力，Agentlego多模态智能体工具箱。
